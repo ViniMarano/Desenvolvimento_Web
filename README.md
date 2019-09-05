@@ -15,6 +15,6 @@ O documento HTML sempre inicia com o que chamamos de estrutura básica. Esta est
 **CSS** é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
 
 ## **CSS 3**
-Apesar de lançada em 2010, CSS3 é a última versão e veio para acrescentar de forma melhorada das versões anteriores.
+Apesar de lançada em 2010, **CSS3** é a última versão e veio para acrescentar de forma melhorada das versões anteriores.
 A melhor novidade é em relação a flexibilidade na criação de layouts, trazendo mais autonomia para os webdesigners e também desenvolvedores, que de certa forma estão ligados ao visual do site.
 Com o CSS3, é possível elaborar cantos arredondados, sombras, efeitos gradientes, animações e efeitos de transição, dentre outras opções.
