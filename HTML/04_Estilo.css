@@ -1,0 +1,52 @@
+/*
+font-family: 'Raleway', sans-serif;
+font-family: 'Livvic', sans-serif;
+*/
+
+
+* body {
+		background: #CCC;
+	   }
+
+
+/* Trabalhando com Seletores */
+
+h1 {
+	font-family:'Raleway', sans-serif;
+	color: #F87060;
+   }
+
+
+p {
+	font-family: 'Livic', sans-serif;
+	color: #F87060;
+  }
+
+  /* Trabalhando com ID's */
+
+  #cabecalhoCustom 
+  	{
+		font-family: Arial, sans-serif;
+		color: #54426B;
+	}
+
+#paragrafoCustom
+	{
+		font-family: Arial, sans-serif;
+		color: #54426B;
+	}
+
+
+/* Trabalhando com Classes */
+
+.classeCabecalho
+ 	{
+ 		font-family: 'Century Gothic', sans-serif;
+ 		color: #FFA630;
+ 	}
+
+ .classeParagrafo
+ 	{
+ 		font-family: 'Century Gothic', sans-serif;
+ 		color: #FFA630;
+ 	}
