@@ -1,7 +1,7 @@
 # Desenvolvimento Web
 ![Web_Logo](https://img.shields.io/badge/Desenvolvimento-Web-critical)
 ![HTML_Logo](https://img.shields.io/badge/HTML-5-blue)
-![CSS_Logo](https://img.shields.io/badge/CSS-3-blue)
+![CSS_Logo](https://img.shields.io/badge/CSS-3-red)
 
 Todos os materiais desenvolvidos para o Curso de Desenvolvimento Web vão aqui.
 
