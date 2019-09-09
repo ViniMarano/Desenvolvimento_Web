@@ -1,0 +1,57 @@
+* body
+	{
+		background: #E6E6EA;
+		font-family: 'Indie Flower', cursive;
+	}
+
+
+.Titulo
+	{
+		width: 1200px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+
+h1
+	{
+		font-size: 48px;
+		font-weight: 700;
+	}
+
+
+h3
+	{
+		font-size: 22px;
+		font-weight: 300;
+	}
+
+
+.spanCustom
+	{
+		color: #30343F;
+		font-weight: 300;
+	}
+
+
+.Conteudo
+	{
+		width: 1200px;
+		margin: 0 auto;
+		line-height: 28px;
+		text-align: justify;
+	}
+
+
+.formataP
+	{
+		font-size: 20px;
+		margin: 10px;  /*Topo(10px), Direita(5px), Baixo(20px), Esquerda(30px)*/
+	}
+
+
+.formContato
+	{
+		width: 1200px;
+		margin: 0 auto;
+	}
