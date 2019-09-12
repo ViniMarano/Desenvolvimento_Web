@@ -1,0 +1,29 @@
+a
+	{
+		padding: 5px 10px;
+		text-decoration: none;
+	}
+
+
+
+/* LINKS NÃO VISITADOS */
+a:link 
+	{
+		color: #44BBA4;
+	}
+
+
+/* LINKS JÁ VISITADOS */
+a:visited
+	{
+		color: #FF8484;
+	}
+
+
+/* QUANDO O USUÁRIO PASSAR O MOUSE EM CIMA*/
+a:hover
+	{
+		color: #FFF;
+		background: #2C4251;
+		border-bottom: 2px solid #C1C1C1;
+	}
